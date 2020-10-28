@@ -6,11 +6,11 @@
         },
         {
             "url": "https://blog.iota.org/",
-            "label": "news"
+            "label": "Neuigkeiten"
         },
         {
             "url": "https://trinity.iota.org/",
-            "label": "wallet"
+            "label": "Trinity Wallet"
         },
         {
             "url": "https://docs.iota.org",
@@ -27,11 +27,19 @@
             "items": [
                 {
                     "url": "https://www.einfachiota.de",
-                    "label": "Website"
+                    "label": "Webseite"
                 },
                 {
-                    "url": "Discord",
-                    "label": "https://discord.einfachiota.d"
+                    "url": "https://discord.einfachiota.de",
+                    "label": "Discord"
+                },
+                {
+                    "url": "https://telegram.einfachiota.de",
+                    "label": "Telegram"
+                },
+                {
+                    "url": "https://twitter.einfachiota.de",
+                    "label": "Twitter"
                 }
             ]
         },
@@ -58,40 +66,25 @@
         }
     ],
     "registeredAddress": {
-        "label": "",
-        "value": [
-            ""
+        "label": "Made with &hearts; by",
+        "urls": [
+            {
+                "label": "IOTA Foundation",
+                "url": "https://www.iota.org"
+            }
         ]
     },
     "information": [
         {
-            "label": "einfachIOTA",
+            "label": "",
             "urls": [
                 {
-                    "label": "Privacy Policy",
+                    "label": "Datenschutzerklärung",
                     "url": "https://www.einfachiota.de/datenschutzerklaerung/"
                 },
                 {
                     "label": "Impressum",
                     "url": "https://www.einfachiota.de/impressum/"
-                }
-            ]
-        },
-        {
-            "label": "Email:",
-            "urls": [
-                {
-                    "label": "info@einfachiota.de",
-                    "url": "mailto:info@einfachiota.de"
-                }
-            ]
-        },
-        {
-            "label": "&copy; 2020 IOTA Foundation",
-            "urls": [
-                {
-                    "label": "Tangle Explorer",
-                    "url": "https://explorer.iota.org"
                 }
             ]
         }
