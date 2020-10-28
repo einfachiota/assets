@@ -1,0 +1,99 @@
+{
+    "sites": [
+        {
+            "url": "https://www.iota.org",
+            "label": "iota.org"
+        },
+        {
+            "url": "https://blog.iota.org/",
+            "label": "news"
+        },
+        {
+            "url": "https://trinity.iota.org/",
+            "label": "wallet"
+        },
+        {
+            "url": "https://docs.iota.org",
+            "label": "docs"
+        },
+        {
+            "url": "https://ecosystem.iota.org/",
+            "label": "ecosystem"
+        }
+    ],
+    "footerSections": [
+        {
+            "label": "einfachIOTA",
+            "items": [
+                {
+                    "url": "https://www.einfachiota.de",
+                    "label": "Website"
+                },
+                {
+                    "url": "Discord",
+                    "label": "https://discord.einfachiota.d"
+                }
+            ]
+        },
+        {
+            "label": "IOTA Foundation",
+            "items": [
+                {
+                    "url": "https://www.iota.org/the-foundation/our-vision",
+                    "label": "Our Vision"
+                },
+                {
+                    "url": "https://www.iota.org/the-foundation/the-iota-foundation",
+                    "label": "The IOTA Foundation"
+                },
+                {
+                    "url": "https://www.iota.org/the-foundation/team",
+                    "label": "Meet the Team"
+                },
+                {
+                    "url": "https://www.iota.org/the-foundation/work-at-the-iota-foundation",
+                    "label": "Work at the IOTA Foundation"
+                }
+            ]
+        }
+    ],
+    "registeredAddress": {
+        "label": "",
+        "value": [
+            ""
+        ]
+    },
+    "information": [
+        {
+            "label": "einfachIOTA",
+            "urls": [
+                {
+                    "label": "Privacy Policy",
+                    "url": "https://www.einfachiota.de/datenschutzerklaerung/"
+                },
+                {
+                    "label": "Impressum",
+                    "url": "https://www.einfachiota.de/impressum/"
+                }
+            ]
+        },
+        {
+            "label": "Email:",
+            "urls": [
+                {
+                    "label": "info@einfachiota.de",
+                    "url": "mailto:info@einfachiota.de"
+                }
+            ]
+        },
+        {
+            "label": "&copy; 2020 IOTA Foundation",
+            "urls": [
+                {
+                    "label": "Tangle Explorer",
+                    "url": "https://explorer.iota.org"
+                }
+            ]
+        }
+    ]
+}
